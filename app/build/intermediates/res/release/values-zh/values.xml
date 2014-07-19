@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/values-zh/strings.xml -->
+    <eat-comment />
+
+    <string name="app_name">通知另一台</string>
+    <string name="bt_not_enabled_leaving">藍芽請先開啟，將離開APP了</string>
+    <string name="button_scan">搜尋...</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="none_found">沒有找到任何設備</string>
+    <string name="none_paired">沒有任何配對裝置</string>
+    <string name="not_connected">沒有連結到任何裝置！</string>
+    <string name="scanning">搜尋附近裝置...</string>
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="select_device">請選擇一台裝置連結</string>
+    <string name="send">配對</string>
+    <string name="title_connected_to">已連結: </string>
+    <string name="title_connecting">連結中...</string>
+    <string name="title_not_connected">沒有任何連結...</string>
+    <string name="title_other_devices">可配對的其他裝置</string>
+    <string name="title_paired_devices">已經配對的裝置</string>
+
+</resources>

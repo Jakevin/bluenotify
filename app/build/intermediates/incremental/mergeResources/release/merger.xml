@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res" >
+            <file
+                name="app_icon"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/drawable/app_icon.png"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="app_icon"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/drawable-hdpi/app_icon.png"
+                qualifiers="hdpi-v4"
+                type="drawable" />
+            <file
+                name="custom_title"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/layout/custom_title.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="device_list"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/layout/device_list.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="device_name"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/layout/device_name.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/layout/main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="message"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/layout/message.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="option_menu"
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/menu/option_menu.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="send" >Send
+                </string>
+                <string name="bt_not_enabled_leaving" >Bluetooth was not enabled. Leaving Bluetooth Chat.
+                </string>
+                <string name="title_not_connected" >not connected
+                </string>
+                <string name="title_connected_to" >connected: 
+                </string>
+                <string name="not_connected" >You are not connected to a device
+                </string>
+                <string name="scanning" >scanning for devices...
+                </string>
+                <string name="title_other_devices" >Other Available Devices
+                </string>
+                <string name="select_device" >select a device to connect
+                </string>
+                <string name="title_connecting" >connecting...
+                </string>
+                <string name="secure_connect" >Connect a device - Secure
+                </string>
+                <string name="none_paired" >No devices have been paired
+                </string>
+                <string name="title_paired_devices" >Paired Devices
+                </string>
+                <string name="discoverable" >Make discoverable
+                </string>
+                <string name="none_found" >No devices found
+                </string>
+                <string name="insecure_connect" >Connect a device - Insecure
+                </string>
+                <string name="app_name" >Notify to Android
+                </string>
+                <string name="button_scan" >Scan for devices
+                </string>
+            </file>
+            <file
+                path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/main/res/values-zh/strings.xml"
+                qualifiers="zh" >
+                <string name="app_name" >通知另一台
+                </string>
+                <string name="none_paired" >沒有任何配對裝置
+                </string>
+                <string name="bt_not_enabled_leaving" >藍芽請先開啟，將離開APP了
+                </string>
+                <string name="insecure_connect" >Connect a device - Insecure
+                </string>
+                <string name="select_device" >請選擇一台裝置連結
+                </string>
+                <string name="button_scan" >搜尋...
+                </string>
+                <string name="none_found" >沒有找到任何設備
+                </string>
+                <string name="send" >配對
+                </string>
+                <string name="title_not_connected" >沒有任何連結...
+                </string>
+                <string name="title_paired_devices" >已經配對的裝置
+                </string>
+                <string name="discoverable" >Make discoverable
+                </string>
+                <string name="scanning" >搜尋附近裝置...
+                </string>
+                <string name="secure_connect" >Connect a device - Secure
+                </string>
+                <string name="title_connecting" >連結中...
+                </string>
+                <string name="title_other_devices" >可配對的其他裝置
+                </string>
+                <string name="title_connected_to" >已連結: 
+                </string>
+                <string name="not_connected" >沒有連結到任何裝置！
+                </string>
+            </file>
+        </source>
+        <source path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/build/generated/res/rs/release" />
+        <source path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/build/generated/res/generated/release" />
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/src/release/res" />
+    </dataSet>
+
+</merger>

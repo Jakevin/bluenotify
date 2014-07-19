@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/jakevin/AndroidstudioProjects/BluetoothChat/app/build/intermediates/pre-dexed/release/support-v4-19.1.0-0145cafa12578bf33f79ce2c72b2d51c5922f00c.jar"
+        jar="/Users/jakevin/Documents/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
